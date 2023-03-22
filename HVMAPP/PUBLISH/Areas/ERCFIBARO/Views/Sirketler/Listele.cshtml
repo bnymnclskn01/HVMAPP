@@ -1,0 +1,54 @@
+﻿@model IEnumerable<HVMAPP.Entity.Company>
+@{
+    ViewBag.Title = "Şirket Listele";
+    Layout = "~/Areas/ERCFIBARO/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">ŞİRKET LİSTELE</h2>
+    </header>
+    <div class="panel-body">
+        <table class="table table-bordered table-striped mb-none" id="datatable-tabletools" data-swf-path="assets/vendor/jquery-datatables/extras/TableTools/swf/copy_csv_xls_pdf.swf">
+            <thead>
+                <tr>
+                    <th>Şirket Adı</th>
+                    <th>Şirket Açıklama</th>
+                    <th>Güncelleme Tarih</th>
+                    <th>Aktif Durumu</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="gradeX">
+
+                        <td>@item.CompanyName</td>
+                        <td>
+                            @item.CompanyDesc
+                        </td>
+                        <td>@item.UpdateDate</td>
+                        @if (item.IsActive == true)
+                        {
+                            <td><i class="fa fa-check"></i> Aktif</td>
+                        }
+                        else
+                        {
+                            <td><i class="fa fa-ban"></i> Pasif</td>
+                        }
+                        <td>
+                            <a href="/ERCFIBARO/Sirketler/Guncelle/@item.ID" class="btn btn-primary"><i class="fa fa-edit"></i></a>
+                            <a href="/ERCFIBARO/Sirketler/Sil/@item.ID" class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>

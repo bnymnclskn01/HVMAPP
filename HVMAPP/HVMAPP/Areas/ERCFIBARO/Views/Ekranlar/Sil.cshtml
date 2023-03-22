@@ -1,0 +1,64 @@
+﻿@model HVMAPP.Entity.LiveScreen
+@{
+    ViewBag.Title = "Ekran Sil";
+    Layout = "~/Areas/ERCFIBARO/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">Ekran Sil</h2>
+    </header>
+    <div class="panel-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div>
+                <dl class="dl-horizontal">
+                    @if (ViewBag.Mesaj != null)
+                    {
+                        <dt class="alert alert-danger"><i class="fa fa-warning"></i> Hata Mesajı</dt>
+                        <dd class="alert alert-danger">@ViewBag.Mesaj</dd>
+                        <hr />
+                    }
+
+                    <dt>
+                        Ekran Adı
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.LiveScreenName)
+                    </dd>
+                    <hr />
+                    <dt>Ekran Açıklama</dt>
+                    <dd>@Html.DisplayFor(model=>model.LiveScreenDesc)</dd>
+                    <hr />
+                    <dt>Şirket Adı</dt>
+                    <dd>@Html.DisplayFor(model=>model.CompanyName)</dd>
+                    <hr />
+                    <dt>
+                        Son Güncelleme Tarihi
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.UpdateDate)
+                    </dd>
+                    <hr />
+                    <dt></dt>
+                    <dd>
+
+                        <div class="form-actions no-color">
+                            <button type="submit" class="btn btn-danger"><i class="fa fa-trash-o"></i> Ekran Sil</button>
+                            <a href="@Url.Action("Listele", "Ekranlar")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </dd>
+                    <hr />
+                </dl>
+            </div>
+        }
+    </div>
+</section>

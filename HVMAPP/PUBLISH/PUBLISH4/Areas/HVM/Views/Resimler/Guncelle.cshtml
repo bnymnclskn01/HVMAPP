@@ -1,0 +1,64 @@
+﻿@model HVMAPP.Entity.Image
+
+@{
+    ViewBag.Title = "RESİM GÜNCELLE";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                <div class="panel-actions">
+                    <a href="#" class="fa fa-caret-down"></a>
+                    <a href="#" class="fa fa-times"></a>
+                </div>
+
+                <h2 class="panel-title">RESİM GÜNCELLEME İŞLEMİ</h2>
+            </header>
+            <div class="panel-body">
+                @using (Html.BeginForm("Guncelle", "Resimler", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-horizontal">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(model => model.ID)
+
+                        <div class="form-group">
+                            <label class="control-label col-md-2">Yeni Resim Ekle (*)</label>
+                            <div class="col-md-10">
+                                <input type="file" multiple class="form-control" name="ImageUrl" required /><p style="color:darkred;">(Resimlerinizi 960x500' e göre ayarlayınız)</p>
+                                @Html.ValidationMessageFor(model => model.ImageUrl, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label col-md-2">Şirket Adı (*)</label>
+                            <div class="col-md-10">
+                                <input type="text" name="CompanyName" required class="form-control" value="Avrasya Hospital" readonly />
+                                @Html.ValidationMessageFor(model => model.CompanyName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label col-md-2">Bağlı Bulunduğu Ekran</label>
+                            <div class="col-md-10">
+                                @Html.DropDownList("ElectronicStuffID", null, htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.ElectronicStuffID, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <button type="submit" class="btn btn-primary"><i class="fa fa-edit"></i> Resim Güncelle</button>
+                                <a href="@Url.Action("Listele","Resimler")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+    </div>
+</div>

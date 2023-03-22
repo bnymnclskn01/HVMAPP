@@ -1,0 +1,45 @@
+﻿@model IEnumerable<HVMAPP.Entity.Image>
+@{
+    ViewBag.Title = "Resimleri Listele";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">RESİM LİSTELE</h2>
+    </header>
+    <div class="panel-body">
+        <table class="table table-bordered table-striped mb-none" id="datatable-tabletools" data-swf-path="assets/vendor/jquery-datatables/extras/TableTools/swf/copy_csv_xls_pdf.swf">
+            <thead>
+                <tr>
+                    <th>Bilgisayar Adı</th>
+                    <th>Kayıtlı Resim</th>
+                    <th>Şirket Adı</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="gradeX">
+
+                        <td>@item.ElectronicStuff.Name</td>
+                        <td>
+                            <img src="~/Resimler/@item.ImageUrl" width="150" />
+                        </td>
+                        <td>@item.CompanyName</td>
+                        <td>
+                            <a href="/HVM/Resimler/Guncelle/@item.ID" class="btn btn-primary"><i class="fa fa-edit"></i></a>
+                            <a href="/HVM/Resimler/Sil/@item.ID" class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>

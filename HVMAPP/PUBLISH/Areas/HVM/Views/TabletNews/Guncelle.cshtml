@@ -1,0 +1,78 @@
+﻿@model HVMAPP.Entity.TabletNews
+
+@{
+    ViewBag.Title = "Tablet - 1 Haber Güncelle";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                <div class="panel-actions">
+                    <a href="#" class="fa fa-caret-down"></a>
+                    <a href="#" class="fa fa-times"></a>
+                </div>
+
+                <h2 class="panel-title">TABLET - 1 HABER GÜNCELLE</h2>
+            </header>
+            <div class="panel-body">
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.ID)
+
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">Haber İçeriği</label>
+                        <div class="col-md-10">
+                            <textarea class="form-control" rows="5" required placeholder="Lütfen İçerik Giriniz" maxlength="200" name="Title">@Model.Title</textarea>
+                            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">Haber Notu</label>
+                        <div class="col-md-10">
+                            <input type="text" name="Note" value="@Model.Note" class="form-control" placeholder="Zorunlu Olmamak Şartıyla Haber Notu Giriniz" maxlength="110" />
+                            @Html.ValidationMessageFor(model => model.Note, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">Tablet Adı</label>
+                        <div class="col-md-10">
+                            @Html.DropDownList("ElectronicStuffId", null, htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.ElectronicStuffId, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">Aktif | Pasif</label>
+                        <div class="col-md-10">
+                            <div class="checkbox">
+                                <div class="i-checks">
+                                    <label> <input type="radio" name="IsActive" value="True"> <i></i> Aktif </label>
+
+                                    <label> <input type="radio" name="IsActive" value="False"> <i></i> Pasif </label>
+                                    <label style="color:red;">Kullanıcı Aktif veya Pasif Olarak Seçim Ayarlayınız.</label>
+                                </div>
+                                @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-success"><i class="fa fa-pencil"></i> Yeni Haber Güncelle</button>
+                            <a href="@Url.Action("Listele","TabletNews")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </section>
+
+    </div>
+</div>

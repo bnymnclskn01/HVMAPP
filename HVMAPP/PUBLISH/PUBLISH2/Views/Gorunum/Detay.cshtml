@@ -1,0 +1,167 @@
+﻿@model HVMAPP.Entity.ElectronicStuff
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ekran Detay | HVM APP</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/style.css">
+    <script type="text/javascript">
+        window.onload = maxWindow;
+
+        function maxWindow() {
+            window.moveTo(0, 0);
+
+            if (document.all) {
+                top.window.resizeTo(screen.availWidth, screen.availHeight);
+            }
+
+            else if (document.layers || document.getElementById) {
+                if (top.window.outerHeight < screen.availHeight || top.window.outerWidth < screen.availWidth) {
+                    top.window.outerHeight = screen.availHeight;
+                    top.window.outerWidth = screen.availWidth;
+                }
+            }
+        }
+
+        function requestFullScreen(element) {
+            // Supports most browsers and their versions.
+            var requestMethod = element.requestFullScreen || element.webkitRequestFullScreen || element.mozRequestFullScreen || element.msRequestFullScreen;
+
+            if (requestMethod) { // Native full screen.
+                requestMethod.call(element);
+            } else if (typeof window.ActiveXObject !== "undefined") { // Older IE.
+                var wscript = new ActiveXObject("WScript.Shell");
+                if (wscript !== null) {
+                    wscript.SendKeys("{F11}");
+                }
+            }
+        }
+
+        var elem = document.body; // Make the body go full screen.
+        requestFullScreen(elem);
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119386393-1"></script>
+</head>
+<body style="background-color: #ffffff;">
+    <div class="mobile-menu-overlay"></div>
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="title" style="width:100%; margin-left:0px; margin-right:0px; background-color: #3f8b04;">
+                <h1 style="color:white; text-align:center; font-size:350px;">@Model.Room.Name</h1>
+            </div>
+            <div class="page-header">
+                <div class="mb-30"></div>
+                <div class="col-md-12 text-center">
+                    <img src="~/Content/Site/1276.png" width="300" />
+                    <div class="mb-30"></div>
+                </div>
+                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img class="d-block w-100" src="~/Content/Baslangic/gozkampanya.png" width="100%" alt="First slide">
+                        </div>
+                        @foreach (var item in Model.Images)
+                        {
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="~/Resimler/@item.ImageUrl" width="100%" alt="First slide">
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="collapse collapse-box" id="carousel1">
+                    <div class="code-box">
+                        <div class="clearfix">
+                            <a href="javascript:;" class="btn btn-primary btn-sm code-copy pull-left" data-clipboard-target="#copy-carousel1"><i class="fa fa-clipboard"></i> Copy Code</a>
+                            <a href="#carousel1" class="btn btn-primary btn-sm pull-right" rel="content-y" data-toggle="collapse" role="button"><i class="fa fa-eye-slash"></i> Hide Code</a>
+                        </div>
+                        <pre><code class="xml copy-pre" id="copy-carousel1">
+                                </code>
+                                </pre>
+                    </div>
+                </div>
+                <div class="mb-10"></div>
+                <div class="col-md-12">
+                    <iframe border="0" src="https://www.ensonhaber.com/sondakika/index6.php" frameborder="0" width="100%" height="100" style="font:bold 50px;" scrolling="no"></iframe>
+                </div>
+                <div class="mb-30"></div>
+                <div class="col-md-12">
+                    <script type="text/javascript">
+                        window.onload = setInterval(clock, 1000);
+
+                        function clock() {
+                            var d = new Date();
+                            var date = d.getDate();
+                            var month = d.getMonth();
+                            var montharr = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"];
+                            month = montharr[month];
+                            var year = d.getFullYear();
+                            var date = d.getDate();
+                            var day = d.getDay();
+                            var dayarr = ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"];
+                            day = dayarr[day];
+                            var hour = d.getHours();
+                            var min = d.getMinutes();
+                            var sec = d.getSeconds();
+                            document.getElementById("date").innerHTML = date + "/" + month + "/" + year;
+                            document.getElementById("time").innerHTML = hour + ":" + min + ":" + sec;
+                        }
+
+                    </script>
+                    <style type="text/css">
+                        .time-frame {
+                            color: black;
+                            text-align: right;
+                        }
+
+                            .time-frame > div {
+                                width: 100%;
+                                text-align: right;
+                            }
+
+                        #date {
+                            font-size: 50px;
+                            color: #3f8b04;
+                            text-align: left;
+                        }
+
+                        #time {
+                            font-size: 50px;
+                            line-height: 30px;
+                            color: #3f8b04;
+                            margin-top: 5px;
+                        }
+                    </style>
+                    <div class="time-frame">
+                        <table width="100%">
+                            <tbody>
+                                <tr>
+                                    <td align="left" id="date">
+                                    </td>
+                                    <td align="right" id="time">
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/Content/Site/vendors/scripts/core.js"></script>
+    <script src="~/Content/Site/vendors/scripts/script.min.js"></script>
+    <script src="~/Content/Site/vendors/scripts/process.js"></script>
+    <script src="~/Content/Site/vendors/scripts/layout-settings.js"></script>
+</body>
+</html>

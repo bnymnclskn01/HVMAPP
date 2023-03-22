@@ -1,0 +1,98 @@
+﻿@model HVMAPP.Entity.ElectronicStuff
+
+@{
+    ViewBag.Title = "Ekran Ayarı Detayı";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">Ekran Detayı</h2>
+    </header>
+    <div class="panel-body">
+        <div>
+            <dl class="dl-horizontal">
+
+                <dt>
+                    Ekran Görünüm Adı
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.LiveScreen.LiveScreenName)
+                </dd>
+
+                <dt>
+                    Oda Adı
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Room.Name)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <dt>
+                    Tablet Zip Kodu
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ZipCode)
+                </dd>
+
+                <dt>
+                    Tablet Giriş Şifresi
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.IdentityNumber)
+                </dd>
+
+                <dt>
+                    Şirket Adı
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CompanyName)
+                </dd>
+                <dt>Ekran Resimleri</dt>
+                <dd>
+                    <div class="col-md-12">
+                        <section class="panel">
+                            <header class="panel-heading">
+                                <div class="panel-actions">
+                                </div>
+
+                                <h2 class="panel-title">Ekran Slider</h2>
+                            </header>
+                            <div class="panel-body">
+                                <div class="owl-carousel" data-plugin-carousel data-plugin-options='{ "autoPlay": 2000, "items": 1,  "navigation": false, "pagination": false }'>
+                                    @foreach (var item in Model.Images)
+                                    {
+                                        <div class="item">
+                                            <img alt="Test" class="img-responsive" src="@item.ImageUrl">
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </dd>
+                <dt></dt>
+                <dd>
+                    <a href="/HVM/Bilgisayar/Guncelle/@Model.ID" class="btn btn-primary"><i class="fa fa-edit"></i> Ekranı Güncelle</a>
+                    <a href="@Url.Action("Listele","Bilgisayar")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                </dd>
+            </dl>
+        </div>
+    </div>
+</section>

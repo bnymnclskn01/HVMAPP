@@ -1,0 +1,61 @@
+﻿@model HVMAPP.Entity.Doctor
+@{
+    ViewBag.Title = "Doktor Sil";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">DOKTOR SİL</h2>
+    </header>
+    <div class="panel-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div>
+                <dl class="dl-horizontal">
+                    @if (ViewBag.Mesaj != null)
+                    {
+                        <dt class="alert alert-danger"><i class="fa fa-warning"></i> Hata Mesajı</dt>
+                        <dd class="alert alert-danger">@ViewBag.Mesaj</dd>
+                        <hr />
+                    }
+
+                    <dt>
+                        Adı Soyadı
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NameSurname)
+                    </dd>
+                    <hr />
+                    <dt>Uzmanlık Alanı</dt>
+                    <dd>@Model.Profession</dd>
+                    <hr />
+                    <dt>
+                        Son Güncelleme Tarihi
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.UpdateDate)
+                    </dd>
+                    <hr />
+                    <dt></dt>
+                    <dd>
+
+                        <div class="form-actions no-color">
+                            <button type="submit" class="btn btn-danger"><i class="fa fa-trash-o"></i> Doktor Sil</button>
+                            <a href="@Url.Action("Listele", "Doktor")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </dd>
+                    <hr />
+                </dl>
+            </div>
+        }
+    </div>
+</section>

@@ -1,0 +1,56 @@
+﻿@model HVMAPP.Entity.ElectronicStuff
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ekran Detay | HVM APP</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Areas/ERCFIBARO/Dashboard/assets/images/HVM APP.png">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/core.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Site/vendors/styles/style.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119386393-1"></script>
+</head>
+<body style="background-color: #ffffff;">
+    <div class="mobile-menu-overlay"></div>
+    <div id="detay">
+
+    </div>
+</body>
+</html>
+<script src="~/Content/Site/vendors/scripts/core.js"></script>
+<script src="~/Content/Site/vendors/scripts/script.min.js"></script>
+<script src="~/Content/Site/vendors/scripts/process.js"></script>
+<script src="~/Content/Site/vendors/scripts/layout-settings.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function () {
+
+        setTimeout(function () { detailPartial(@ViewBag.ID); }, 3000);
+    });
+    setInterval(function () { detailPartial(@ViewBag.ID); }, 600000);
+
+    function detailPartial(Id) {
+        if (Id == null || Id== "") {
+            window.location.href = "/Anasayfa/Index";
+        }
+        else {
+            $.ajax({
+                method: "GET",
+                url: "/Gorunum/_DetailPartial",
+                data: { Id: @ViewBag.ID },
+                success: function myfunc(data) {
+                    $("#detay").html('');
+                    $("#detay").html(data);
+                }
+            });
+        }
+    }
+</script>

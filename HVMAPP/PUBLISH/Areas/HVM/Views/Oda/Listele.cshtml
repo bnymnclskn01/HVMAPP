@@ -1,0 +1,54 @@
+﻿@model  IEnumerable<HVMAPP.Entity.Room>
+@{
+    ViewBag.Title = "Oda Listele";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">ODA LİSTELE</h2>
+    </header>
+    <div class="panel-body">
+        <table class="table table-bordered table-striped mb-none" id="datatable-tabletools" data-swf-path="assets/vendor/jquery-datatables/extras/TableTools/swf/copy_csv_xls_pdf.swf">
+            <thead>
+                <tr>
+                    <th>Oda Adı</th>
+                    <th>Oda Açıklaması</th>
+                    <th>Şirket Adı</th>
+                    <th>Aktif Durumu</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="gradeX">
+
+                        <td>@item.Name</td>
+                        <td>
+                            @item.Description
+                        </td>
+                        <td>@item.CompanyName</td>
+                        @if (item.IsActive == true)
+                        {
+                            <td><i class="fa fa-check"></i> Aktif</td>
+                        }
+                        else
+                        {
+                            <td><i class="fa fa-ban"></i> Pasif</td>
+                        }
+                        <td>
+                            <a href="/HVM/Oda/Guncelle/@item.ID" class="btn btn-primary"><i class="fa fa-edit"></i></a>
+                            <a href="/HVM/Oda/Sil/@item.ID" class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>

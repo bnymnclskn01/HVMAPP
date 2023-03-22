@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Gösterge Paneli";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">ENVANTER LİSTESİ</h2>
+    </header>
+    <div class="panel-body">
+        <table class="table table-bordered table-striped mb-none" id="datatable-tabletools" data-swf-path="assets/vendor/jquery-datatables/extras/TableTools/swf/copy_csv_xls_pdf.swf">
+            <thead>
+                <tr>
+                    <th>Toplam Aktif Ekran</th>
+                    <th>Kullanılan Aktif Ekran</th>
+                    <th>Kullanılmayan Ekran</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="gradeX">
+                    <td class="bg-primary" style="color:white;">@ViewBag.ToplamEkran.TabletNumber</td>
+                    <td class="bg-success" style="color:white;">@ViewBag.KullanilanEkran</td>
+                    <td class="bg-danger" style="color:white;">@ViewBag.KullanilmayanEkran</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>

@@ -1,0 +1,904 @@
+D:\Projeler\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+D:\Projeler\HVMAPP\HVMAPP\bin\HVMAPP.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+D:\Projeler\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeler\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\EntityFramework.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Buffers.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Memory.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\WebGrease.dll
+D:\Projeler\HVMAPP\HVMAPP\bin\EntityFramework.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Buffers.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Memory.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+D:\Projeler\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+D:\Projeler\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeler\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+D:\Projeler\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+D:\Projeler\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+D:\Projeler\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+D:\Projeler\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\WebGrease.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+D:\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\WebGrease.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+C:\Users\mekas\OneDrive\Masaüstü\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\WebGrease.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+D:\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\WebGrease.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Buffers.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Memory.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+C:\Users\Meka Softech\Desktop\HARD DISC BACKUP\TÜM DOSYALAR\Projeler\FREELANCE\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+E:\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+E:\HVMAPP\HVMAPP\bin\HVMAPP.dll
+E:\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+E:\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+E:\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+E:\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+E:\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+E:\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+E:\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+E:\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+E:\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+E:\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+E:\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+E:\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+E:\HVMAPP\HVMAPP\bin\EntityFramework.dll
+E:\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+E:\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+E:\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+E:\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+E:\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+E:\HVMAPP\HVMAPP\bin\System.Buffers.dll
+E:\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+E:\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+E:\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+E:\HVMAPP\HVMAPP\bin\System.Memory.dll
+E:\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+E:\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+E:\HVMAPP\HVMAPP\bin\WebGrease.dll
+E:\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+E:\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+E:\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+E:\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+E:\HVMAPP\HVMAPP\bin\EntityFramework.xml
+E:\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+E:\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+E:\HVMAPP\HVMAPP\bin\System.Buffers.xml
+E:\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+E:\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+E:\HVMAPP\HVMAPP\bin\System.Memory.xml
+E:\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+E:\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+E:\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+E:\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+E:\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+E:\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+E:\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+E:\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+E:\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+E:\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.dll.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.pdb
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csc.exe
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csc.exe.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csc.rsp
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csi.exe
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csi.exe.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\csi.rsp
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.AppContext.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Console.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Net.Http.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\vbc.exe
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\vbc.exe.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\vbc.rsp
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Antlr3.Runtime.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\EntityFramework.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Newtonsoft.Json.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Buffers.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Collections.Immutable.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.ComponentModel.Annotations.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Memory.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Helpers.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Mvc.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Optimization.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Razor.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\WebGrease.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.DAL.pdb
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.DAL.dll.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.Entity.pdb
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\HVMAPP.Entity.dll.config
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\EntityFramework.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Options.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Buffers.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Collections.Immutable.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Memory.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Numerics.Vectors.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Helpers.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Mvc.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Optimization.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.Razor.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Newtonsoft.Json.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Antlr3.Runtime.pdb
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csprojAssemblyReference.cache
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CoreCompileInputs.cache
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\obj\Debug\HVMAPP.csproj.CopyComplete
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\obj\Debug\HVMAPP.dll
+C:\Users\Meka Softech\Desktop\HVMAPP\HVMAPP\obj\Debug\HVMAPP.pdb

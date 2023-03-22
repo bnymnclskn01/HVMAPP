@@ -1,0 +1,54 @@
+﻿@model HVMAPP.Entity.Company
+@{
+    ViewBag.Title = "Şirket Sil";
+    Layout = "~/Areas/ERCFIBARO/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">Şirket Sil</h2>
+    </header>
+    <div class="panel-body">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div>
+                <dl class="dl-horizontal">
+                    <dt>
+                        Şirket Adı
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.CompanyName)
+                    </dd>
+                    <hr />
+                    <dt>Şirket Açıklaması</dt>
+                    <dd>@Html.Raw(Model.CompanyDesc)</dd>
+                    <hr />
+                    <dt>
+                        Son Güncelleme Tarihi
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.UpdateDate)
+                    </dd>
+                    <hr />
+                    <dt></dt>
+                    <dd>
+
+                        <div class="form-actions no-color">
+                            <button type="submit" class="btn btn-danger"><i class="fa fa-trash-o"></i> Şirket Sil</button>
+                            <a href="@Url.Action("Listele", "Sirketler")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </dd>
+                    <hr />
+                </dl>
+            </div>
+        }
+    </div>
+</section>

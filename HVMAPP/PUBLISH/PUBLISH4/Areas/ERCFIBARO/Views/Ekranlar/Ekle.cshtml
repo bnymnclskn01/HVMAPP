@@ -1,0 +1,83 @@
+﻿@model HVMAPP.Entity.LiveScreen
+@{
+    ViewBag.Title = "Ekran Ekle";
+    Layout = "~/Areas/ERCFIBARO/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                <div class="panel-actions">
+                    <a href="#" class="fa fa-caret-down"></a>
+                    <a href="#" class="fa fa-times"></a>
+                </div>
+
+                <h2 class="panel-title">EKRAN EKLE</h2>
+            </header>
+            <div class="panel-body">
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @if (ViewBag.Mesaj != null)
+                    {
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <div class="alert alert-danger">
+                                    <h3><i class="fa fa-warning"></i> Hata Mesajı</h3>
+                                    <p>@ViewBag.Mesaj</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="text" maxlength="35" name="LiveScreenName" class="form-control" required placeholder="Ekran Adını Giriniz(*)." />
+                            @Html.ValidationMessageFor(model => model.LiveScreenName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <textarea class="form-control" name="LiveScreenDesc" rows="4" placeholder="Ekran Açıklaması"></textarea>
+                            @Html.ValidationMessageFor(model => model.LiveScreenDesc, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="text" maxlength="110" name="CompanyName" class="form-control" required placeholder="Şirket Adını Giriniz(*)." />
+                            @Html.ValidationMessageFor(model => model.CompanyName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <div class="checkbox">
+                                <div class="i-checks">
+                                    <label> <input type="radio" name="IsActive" value="True"> <i></i> Aktif </label>
+
+                                    <label> <input type="radio" name="IsActive" value="False"> <i></i> Pasif </label>
+                                    <label style="color:red;">Kullanıcı Aktif veya Pasif Olarak Seçim Ayarlayınız.</label>
+                                </div>
+                                @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-1 col-md-10">
+                            <button type="submit" class="btn btn-success"><i class="fa fa-check"></i> Ekran Ekle</button>
+                            <a href="@Url.Action("Listele","Ekranlar")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </section>
+
+    </div>
+</div>

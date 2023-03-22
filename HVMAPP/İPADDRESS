@@ -1,0 +1,6 @@
+            var ipAdress= System.Web.HttpContext.Current.Request.ServerVariables["HTTP_X_FORWARDED_FOR"];
+            if (string.IsNullOrEmpty(ipAdress))
+            {
+                ipAdress = System.Web.HttpContext.Current.Request.ServerVariables["REMOTE_ADDR"];
+            }
+            ViewBag.ip = ipAdress;

@@ -1,0 +1,90 @@
+﻿@model HVMAPP.Entity.RoomSetting
+@{
+    ViewBag.Title = "Oda Ayarı Güncelle";
+    Layout = "~/Areas/ERCFIBARO/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-12">
+        <section class="panel">
+            <header class="panel-heading">
+                <div class="panel-actions">
+                    <a href="#" class="fa fa-caret-down"></a>
+                    <a href="#" class="fa fa-times"></a>
+                </div>
+
+                <h2 class="panel-title">ODA AYARI GÜNCELLE</h2>
+            </header>
+            <div class="panel-body">
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @Html.HiddenFor(model => model.ID)
+                    @if (ViewBag.Mesaj != null)
+                    {
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <div class="alert alert-danger">
+                                    <h3><i class="fa fa-warning"></i> Hata Mesajı</h3>
+                                    <p>@ViewBag.Mesaj</p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="number" maxlength="4" name="TabletNumber" value="@Model.TabletNumber" class="form-control" required placeholder="Tablet Sayısı Giriniz(*)." />
+                            @Html.ValidationMessageFor(model => model.TabletNumber, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="number" maxlength="4" name="VideoWallNumber" value="@Model.VideoWallNumber" class="form-control" required placeholder="Video Wall Sayısı Giriniz(*)." />
+                            @Html.ValidationMessageFor(model => model.VideoWallNumber, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="number" maxlength="4" name="TV" value="@Model.TV" class="form-control" required placeholder="TV Sayısı Giriniz(*)." />
+                            @Html.ValidationMessageFor(model => model.TV, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="text" name="Company" class="form-control" value="@Model.Company" required placeholder="Şirket Adı Giriniz" />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <div class="checkbox">
+                                <div class="i-checks">
+                                    <label> <input type="radio" name="IsActive" value="True"> <i></i> Aktif </label>
+
+                                    <label> <input type="radio" name="IsActive" value="False"> <i></i> Pasif </label>
+                                    <label style="color:red;">Kullanıcı Aktif veya Pasif Olarak Seçim Ayarlayınız.</label>
+                                </div>
+                                @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-1 col-md-10">
+                            <button type="submit" class="btn btn-primary"><i class="fa fa-edit"></i> Oda Ayarı Güncelle</button>
+                            <a href="@Url.Action("Listele","OdaAyari")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </section>
+
+    </div>
+</div>

@@ -1,0 +1,87 @@
+﻿@model HVMAPP.Entity.TabletNews
+
+@{
+    ViewBag.Title = "Tablet - 1 Haber Sil";
+    Layout = "~/Areas/HVM/Views/Shared/_Layout.cshtml";
+}
+<section class="panel">
+    <header class="panel-heading">
+        <div class="panel-actions">
+            <a href="#" class="fa fa-caret-down"></a>
+            <a href="#" class="fa fa-times"></a>
+        </div>
+
+        <h2 class="panel-title">HABER SİL</h2>
+    </header>
+    <div class="panel-body">
+        <div>
+            <dl class="dl-horizontal">
+                <dt>
+                    Ekran Adı
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ElectronicStuff.Name)
+                </dd>
+                <hr />
+                <dt>
+                    Haber İçerik
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Title)
+                </dd>
+                <hr />
+                <dt>
+                    Haber Notu
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Note)
+                </dd>
+                <hr />
+                <dt>
+                    Şirket
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Company)
+                </dd>
+                <hr />
+                <dt>
+                    İşlem Tarihi
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UpdateDate)
+                </dd>
+                <hr />
+                <dt>
+                    Aktif Durumu
+                </dt>
+
+                @if (Model.IsActive==true)
+                {
+                    <dd><i class="fa fa-check"></i> Aktif</dd>
+                }
+                else
+                {
+                    <dd><i class="fa fa-trash-o"></i> Pasif</dd>
+                }
+                <hr />
+                <dt></dt>
+                <dd>
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                            <button type="submit" class="btn btn-danger"><i class="fa fa-trash-o"></i> Haber Sil</button>
+                            <a href="@Url.Action("Listele","TabletNews")" class="btn btn-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                        </div>
+                    }
+                </dd>
+            </dl>
+        </div>
+    </div>
+</section>
